@@ -8,7 +8,7 @@ github y tambien la actividad de un usuario en su cuenta de github
 Clonar este repositorio 
 
 ```
-
+git clone https://github.com/davidG199/ApiGithubRepo.git
 ```
 
 Crear el entorno virtual para python
